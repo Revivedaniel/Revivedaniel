@@ -9,5 +9,5 @@
 
 [<img align="left" alt="Portfolio Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin: 12px;"/>](https://danielstark.dev/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  style="margin: 12px;"/>](https://www.linkedin.com/in/dannyjstark/)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  style="margin: 12px;"/>](mailto:webdevstark@gmail.com)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  style="margin: 12px;"/>](mailto:contact@danielstark.dev)
 
